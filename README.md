@@ -2,7 +2,17 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensino médio no CEM 01 GAMA. Atualmente, estou cursando Engenharia de Software na UNICEPLAC. Sou apaixonado por tecnologia e compartilho meu conhecimento com colegas em comunidades no Discord e Reddit.
+Thiago Sousa | 18 anos | Brasília - DF
+Estudante de Engenharia de Software (UNICEPLAC)
+Formado no CEM 01 do Gama
+
+🔹 Apaixonado por tecnologia
+🔹 Sempre aprendendo e compartilhando conhecimento (ativo em Discord, Reddit e Open Sources no Git Hub)
+🔹 Trabalho em equipe é prioridade
+🔹 Proativo, comunicativo e focado em resultados
+🔹 Disponível para início imediato
+
+Busco minha primeira oportunidade para crescer, colaborar e fazer a diferença.
 
 <p align="left">
     <a href="https://github.com/thiago-Sengineer?tab=repositories&sort=stargazers">
@@ -120,6 +130,15 @@ Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensi
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" 
+        />
+    </a>
+    <a href="https://discord.com/users/psr.j1614223">
+        <img 
+            alt="Discord" 
+            title="Discord" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://www.svgrepo.com/show/353655/discord-icon.svg" 
         />
     </a>
 </p>
