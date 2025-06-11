@@ -103,9 +103,6 @@ Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensi
 />
 
 
-<br/>
-<br/>
-
 ### 📊 Estatísticas
 
 <p>
