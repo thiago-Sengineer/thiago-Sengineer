@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensino médio no CEM 01 GAMA. Atualmente, estou cursando Engenharia de Software na UNICEPLAC. Sou apaixonado por tecnologia e compartilho meu conhecimento com colegas em comunidades no discord e reddit".
+Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensino médio no CEM 01 GAMA. Atualmente, estou cursando Engenharia de Software na UNICEPLAC. Sou apaixonado por tecnologia e compartilho meu conhecimento com colegas em comunidades no Discord e Reddit.
 
 <p align="left">
     <a href="https://github.com/thiago-Sengineer?tab=repositories&sort=stargazers">
@@ -10,13 +10,6 @@ Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensi
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/thiago-Sengineer?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/thiago-Sengineer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -73,7 +66,6 @@ Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Tailwind" 
@@ -90,9 +82,14 @@ Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-
-
-
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -104,6 +101,28 @@ Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensi
 <br>
 <br>
 
+### 📫 Contato
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/thiago-de-sousa-oliveira-99b742353/">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+        />
+    </a>
+    <a href="mailto:oliveira.thiago2202@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Gmail" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" 
+        />
+    </a>
+</p>
 
 ### 📊 Estatísticas
 
