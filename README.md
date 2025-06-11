@@ -104,7 +104,7 @@ Me chamo Thiago Sousa, tenho 18 anos e sou natural de Brasília. Concluí o ensi
 ### 📫 Contato
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/thiago-de-sousa-oliveira-99b742353/">
+    <a href="https://www.linkedin.com/in/thiago-de-sousa-oliveira-99b742353/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
