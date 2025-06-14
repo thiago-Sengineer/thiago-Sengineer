@@ -6,9 +6,12 @@
 </p>
 
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=git+commit+-m+%27ff+mid%27;push+no+main+e+smite+no+bug;dev+by+day%2C+elojob+by+night;feature+ou+gank+inesperado%3F;refatorei+e+trollei+a+comp;AFK+no+debug%2C+volto+já" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=520&lines=Clean+code+ou+nada;dev+diurno%2C+jogador+noturno;dev+em+lane+solo+a+procura+de+leash" alt="Typing SVG" />
 </p>
+
+
+
 
 
 
@@ -71,4 +74,7 @@
 
 ---
 
-<p align="center">✨ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_ ✨</p>
+### ✨ Fun facts:
+- “Clean code ou nada” é meu lema
+- Refatoro até quebrar, debugo até funcionar 
+- Sempre aprendendo: composição de componentes e builds 
